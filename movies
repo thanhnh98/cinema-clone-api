@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id":1,
+      "thumbnail":"https://static.wikia.nocookie.net/onepiece/images/f/fd/Movie_10_Poster.png/revision/latest?cb=20130116014223",
+      "name":"One Piece Strong World",
+      "type":"Cartoon",
+      "rating":4.2,
+      "releaseYear":"2022",
+      "durationMinute":150,
+      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon."
+    },
+    {
+      "id":2,
+      "thumbnail":"https://static.wikia.nocookie.net/onepiece/images/f/fd/Movie_10_Poster.png/revision/latest?cb=20130116014223",
+      "name":"One Piece Strong World",
+      "type":"Cartoon",
+      "rating":4.2,
+      "releaseYear":"2022",
+      "durationMinute":150,
+      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon."
+    },
+  ]
+}
