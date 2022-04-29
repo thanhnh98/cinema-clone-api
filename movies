@@ -1,70 +1,70 @@
 {
-  "data": [
-   {
-      "accountType":1,
-      "durationMinute":150,
-      "id":1,
-      "name":"One Piece Strong World",
-      "rating":4.2,
-      "releaseYear":"2022",
-      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
-      "thumbnail":"https://static.wikia.nocookie.net/onepiece/images/f/fd/Movie_10_Poster.png/revision/latest?cb\u003d20130116014223",
-      "type":"Cartoon"
-   },
-   {
-      "accountType":1,
-      "durationMinute":150,
-      "id":2,
-      "name":"One Piece Film GOLD",
-      "rating":5.0,
-      "releaseYear":"2022",
-      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
-      "thumbnail":"https://2.bp.blogspot.com/-B1jLgaPQVVc/VhnZsyA8VDI/AAAAAAAAO2o/orIwD_u207A/s0/One-Piece-Movie-12-Film-Z-Poster-1.jpg",
-      "type":"Cartoon"
-   },
-   {
-      "accountType":1,
-      "durationMinute":150,
-      "id":3,
-      "name":"One Piece Film RED",
-      "rating":4.7,
-      "releaseYear":"2022",
-      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
-      "thumbnail":"https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/4/14/gut3-16499271078161909466544.jpg",
-      "type":"Cartoon"
-   },
-   {
-      "accountType":1,
-      "durationMinute":150,
-      "id":4,
-      "name":"Onepice chất lượng cao",
-      "rating":4.8,
-      "releaseYear":"2022",
-      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
-      "thumbnail":"https://image.lag.vn/upload/news/18/08/26/5-15352610750551894511556_SZGH.png",
-      "type":"Cartoon"
-   },
-   {
-      "accountType":1,
-      "durationMinute":150,
-      "id":5,
-      "name":"One Piece Chopper Story",
-      "rating":4.2,
-      "releaseYear":"2022",
-      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
-      "thumbnail":"https://lh3.googleusercontent.com/-wqLW7DFsWfs/XizQzduiIBI/AAAAAAAAGwE/Fb7kMmkLqLcCJXbF3oucXGqUbF__s5sYQCLcBGAsYHQ/s0/Phimplay_onepiece-1-dao-hai-tac-9.jpg",
-      "type":"Cartoon"
-   },
-   {
-      "accountType":1,
-      "durationMinute":150,
-      "id":6,
-      "name":"Nami đẹp vãi chưởng",
-      "rating":4.2,
-      "releaseYear":"2022",
-      "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
-      "thumbnail":"https://jpsharing.net/wp-content/uploads/2021/11/one-piece-film-red-1.jpg",
-      "type":"Cartoon"
-   }
-]
+   "data":[
+      {
+         "accountType":1,
+         "durationMinute":150,
+         "id":1,
+         "name":"One Piece Strong World",
+         "rating":4.2,
+         "releaseYear":"2022",
+         "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
+         "thumbnail":"https://static.wikia.nocookie.net/onepiece/images/f/fd/Movie_10_Poster.png/revision/latest?cb\u003d20130116014223",
+         "type":"Cartoon"
+      },
+      {
+         "accountType":1,
+         "durationMinute":150,
+         "id":2,
+         "name":"One Piece Film GOLD",
+         "rating":5.0,
+         "releaseYear":"2022",
+         "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
+         "thumbnail":"https://2.bp.blogspot.com/-B1jLgaPQVVc/VhnZsyA8VDI/AAAAAAAAO2o/orIwD_u207A/s0/One-Piece-Movie-12-Film-Z-Poster-1.jpg",
+         "type":"Cartoon"
+      },
+      {
+         "accountType":1,
+         "durationMinute":150,
+         "id":3,
+         "name":"One Piece Film RED",
+         "rating":4.7,
+         "releaseYear":"2022",
+         "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
+         "thumbnail":"https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/4/14/gut3-16499271078161909466544.jpg",
+         "type":"Cartoon"
+      },
+      {
+         "accountType":1,
+         "durationMinute":150,
+         "id":4,
+         "name":"Onepice chất lượng cao",
+         "rating":4.8,
+         "releaseYear":"2022",
+         "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
+         "thumbnail":"https://image.lag.vn/upload/news/18/08/26/5-15352610750551894511556_SZGH.png",
+         "type":"Cartoon"
+      },
+      {
+         "accountType":1,
+         "durationMinute":150,
+         "id":5,
+         "name":"One Piece Chopper Story",
+         "rating":4.2,
+         "releaseYear":"2022",
+         "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
+         "thumbnail":"https://lh3.googleusercontent.com/-wqLW7DFsWfs/XizQzduiIBI/AAAAAAAAGwE/Fb7kMmkLqLcCJXbF3oucXGqUbF__s5sYQCLcBGAsYHQ/s0/Phimplay_onepiece-1-dao-hai-tac-9.jpg",
+         "type":"Cartoon"
+      },
+      {
+         "accountType":1,
+         "durationMinute":150,
+         "id":6,
+         "name":"Nami đẹp vãi chưởng",
+         "rating":4.2,
+         "releaseYear":"2022",
+         "storyLine":"Luffy was born in Foosha Village to Monkey D. Dragon and an unknown woman. Dragon left Luffy in the care of his grandfather, Monkey D. Garp, who did many dangerous things to Luffy to make him stronger, like throwing him down a deep ravine, leaving him alone in the wild, and tying him to a balloon.",
+         "thumbnail":"https://jpsharing.net/wp-content/uploads/2021/11/one-piece-film-red-1.jpg",
+         "type":"Cartoon"
+      }
+   ]
 }
